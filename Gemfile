@@ -18,7 +18,7 @@ source 'https://rubygems.org/'
 gem 'truemail'
 
 gem 'addressable'
-gem 'altcha', '~> 0.2.1'
+gem 'altcha', '~> 1.0.0'
 
 gem 'rack', '>= 2.2.12', '< 3.0'
 gem 'rack-contrib', '~> 2.5'
